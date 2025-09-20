@@ -25,7 +25,7 @@ This is a Spring Boot 3.3.3 project demonstrating how to document REST APIs usin
 
 ## Getting Started
 
-**Swagger UI Access**
+**Swagger UI Access:**
 Once the application is running, open your browser and navigate to:
 
 http://localhost:8080/swagger-ui/index.html
